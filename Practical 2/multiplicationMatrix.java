@@ -2,7 +2,7 @@ public class multiplicationMatrix{
     public static void main(String[] args) {
     int r1 = 3;
     int c1 = 3;
-    int r2 = 3;
+    //int r2 = 3;
     int c2 = 3;
     int[][] matrix1 = {
     {1, 2, 3},

@@ -27,7 +27,5 @@ class HelloWorld {
         for(int j=i-1; j>=0; j--){
             System.out.print(z[j]);
         }
-        
-        
     }
 }
