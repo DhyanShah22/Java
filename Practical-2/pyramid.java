@@ -1,4 +1,4 @@
-public class pyst {
+public class pyramid {
         public static void main(String[] args) {
             String input = "stream";
 
