@@ -19,7 +19,7 @@ public void printValue(String value) {
 System.out.println("Method with String parameter: " + value);
 }
 }
-public class main 
+public class Main45
 {
 public static void main(String[] args) {
 OverloadingDemo obj1 = new OverloadingDemo(); 
